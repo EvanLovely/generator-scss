@@ -1,0 +1,15 @@
+{
+  "name": "generator-scss",
+  "version": "0.1.0",
+  "description": "Scss structure",
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "author": "Evan Lovely",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^1.0.0",
+    "yeoman-generator": "^0.19.1",
+    "yosay": "^1.0.3"
+  }
+}
