@@ -11,5 +11,14 @@
     "chalk": "^1.0.0",
     "yeoman-generator": "^0.19.1",
     "yosay": "^1.0.3"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/EvanLovely/generator-scss.git"
+  },
+  "bugs": {
+    "url": "https://github.com/EvanLovely/generator-scss/issues"
+  },
+  "homepage": "https://github.com/EvanLovely/generator-scss"
 }
