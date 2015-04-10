@@ -1,9 +1,9 @@
 @charset "UTF-8";
 
-@import "00-core/**/*";
+@import "00-config/**/*";
 @import "10-base/**/*";
-@import "20-global/**/*";
-@import "30-vendor/**/*";
+@import "20-vendor/**/*";
+@import "30-global/**/*";
 
 @import "40-components/**/*";
 @import "50-templates/**/*";
